@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![nialsiG's GitHub stats](https://github-readme-stats.vercel.app/api?username=nialsiG)](https://github.com/nialsiG/github-readme-stats)
+
+
 <!--
 **nialsiG/nialsiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
