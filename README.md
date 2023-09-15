@@ -4,8 +4,8 @@
 Science and videogame developer :microscope: :video_game:
 Doctor in Paleontology :skull:
 
-[![Linkedin: nialsiG](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/nialsig/](https://www.linkedin.com/in/nialsig/))]([https://www.linkedin.com/in/nialsig/](https://www.linkedin.com/in/nialsig/))
-[![Itch.io: nialsiG](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&link=[https://slainghiskhan.itch.io/](https://slainghiskhan.itch.io/))](https://slainghiskhan.itch.io/)
+[![Linkedin: nialsiG](https://img.shields.io/badge/-nialsig?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/nialsig/](https://www.linkedin.com/in/nialsig/))]([https://www.linkedin.com/in/nialsig/](https://www.linkedin.com/in/nialsig/))
+[![Itch.io: nialsiG](https://img.shields.io/badge/-nialsig?style=flat-square&logo=Itch.io&logoColor=white&link=[https://slainghiskhan.itch.io/](https://slainghiskhan.itch.io/))](https://slainghiskhan.itch.io/)
 ![GitHub followers](https://img.shields.io/github/followers/nialsiG?label=Follow&style=social)
 
 ## More about me
