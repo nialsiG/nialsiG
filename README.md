@@ -14,11 +14,19 @@ Doctor in Paleontology :microscope:
 ### More about me :point_down:
 
 ```C#
+using UnityEngine
+
+
 public class nialsiG
 {
     public string pronoums = "He/Him"
     public string pseudonyme = "nialsiG"
-    public Hobby favoriteHobby = "tabletop role play games"
+    public string favoriteHobby = "tabletop RPG"
+
+    public void Presentation()
+    {
+        Debug.Log("Hello, I'm " + pseudonyme + " (" + pronoums + "), and I like " + favoriteHobby)
+    }
 }
 ```
 
