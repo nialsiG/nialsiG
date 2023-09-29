@@ -13,32 +13,6 @@ Doctor in Paleontology :microscope:
 
 ### More about me :point_down:
 
-```C#
-using UnityEngine;
-using UnrealEngine;
-using Godot;
-using C#;
-using Cplusplus;
-using Lua;
-using Python;
-using manyManyMoreLanguagesAndSoftware
-
-public class nialsiG
-{
-    public string pronoums = "He/Him";
-    public string pseudonyme = "nialsiG";
-    public string favoriteHobby = "tabletop RPG";
-    public string targetedJob = "Game developer";
-    public string centerOfInterest = "UI, gameplay, shaders";
-
-    public void Presentation()
-    {
-        Debug.Log("Hello, I'm " + pseudonyme + " (" + pronoums + "), and I like " + favoriteHobby);
-        Debug.Log("I want to become a " + targetedJob + ", I am especially interested in " + centerOfInterest);
-    }
-}
-```
-
 I can speak :gb: :fr: :jp: , plus a little bit of :cn:
 
 My favorite languages:
