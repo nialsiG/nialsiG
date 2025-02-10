@@ -1,12 +1,12 @@
 ### Hello world, I'm Ghislain Thiery! :relaxed:
 ---
 
-Videogame developer :video_game: 
+Videogame and science developer :video_game: 
 
 Doctor in Paleontology :microscope:
 
-[![Linkedin: nialsiG](https://img.shields.io/badge/-nialsig?style=social&logo=Linkedin&link=[https://www.linkedin.com/in/ghislain-thiery-game-developer/](https://www.linkedin.com/in/ghislain-thiery-game-developer/))](https://www.linkedin.com/in/ghislain-thiery-game-developer/)
-[![Itch.io: nialsiG](https://img.shields.io/badge/-nialsig?style=social&logo=Itch.io&link=[https://slainghiskhan.itch.io/](https://slainghiskhan.itch.io/))](https://slainghiskhan.itch.io/)
+[![Linkedin: nialsiG](https://img.shields.io/badge/-nialsig?style=social&logo=Linkedin-blue&link=[https://www.linkedin.com/in/ghislain-thiery-game-developer/](https://www.linkedin.com/in/ghislain-thiery-game-developer/))](https://www.linkedin.com/in/ghislain-thiery-game-developer/)
+[![Itch.io: nialsiG](https://img.shields.io/badge/-nialsig?style=social&logo=Itch.io&link=[https://pleistogames.itch.io/](https://pleistogames.itch.io/))](https://pleistogames.itch.io/)
 ![GitHub followers](https://img.shields.io/github/followers/nialsiG?label=Follow&style=social)
 
 ---
