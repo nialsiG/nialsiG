@@ -4,6 +4,7 @@
 Videogame and science developer :video_game: 
 
 Doctor in Paleontology :microscope:
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=[https://www.linkedin.com/in/ghislain-thiery-game-developer/](https://www.linkedin.com/in/ghislain-thiery-game-developer/))](https://www.linkedin.com/in/ghislain-thiery-game-developer/)
 [![Itch.io: nialsiG](https://img.shields.io/badge/-nialsig?style=social&logo=Itch.io&link=[https://pleistogames.itch.io/](https://pleistogames.itch.io/))](https://pleistogames.itch.io/)
 ![GitHub followers](https://img.shields.io/github/followers/nialsiG?label=Follow&style=social)
